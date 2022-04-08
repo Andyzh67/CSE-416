@@ -1,4 +1,4 @@
-# CSE-416
+# CSE-416 Introduction to Machine Learning
 
 This repository demonstrates the course works (coding part) for CSE 416, Introduction to Machine Learning, at University of Washington. Specifically, they are
   - HW1 - House price prediction with regression
